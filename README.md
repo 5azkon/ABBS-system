@@ -4,6 +4,7 @@
 
 The **Advanced Bus Boarding Safety (ABBS) System** is an innovative mechanism designed to prevent **bus foot boarding accidents**, a critical safety concern in urban transit. Unlike traditional door systems, ABBS targets the **primary cause** — unsafe boarding from the **last step of the bus staircase** — through a tech-forward, multi-component solution that improves safety, accessibility, and efficiency.
 
+![Presentation](SURVEY/presentation.jpg)
 ---
 
 ## 🎯 Objective
@@ -32,6 +33,9 @@ To **reduce bus foot boarding incidents** by introducing a smart mechanical and 
 - **📉 Foldable Secondary Staircase**  
   - Deploys to bridge the height between bus and ground  
   - Specially designed for **elderly and children**
+
+# Flow chart
+![]()
 
 ---
 
