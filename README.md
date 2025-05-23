@@ -35,7 +35,7 @@ To **reduce bus foot boarding incidents** by introducing a smart mechanical and 
   - Specially designed for **elderly and children**
 
 # Flow chart
-![]()
+![prototype](PROTOTYPE/ABBS20%flow20%chart.jpg)
 
 ---
 
