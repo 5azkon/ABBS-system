@@ -77,7 +77,9 @@ To **reduce bus foot boarding incidents** by introducing a smart mechanical and 
 
 ---
 # Prototype
-![]()
+![](PROTOTYPE/IMG-20240830-WA0014%20(3).jpg)
+
+Full video here 👇
 ## 📽️ Demo Video
 
 🔗 [Watch the prototype in action](#) *(Insert YouTube/Drive/Unlisted video link here)*
