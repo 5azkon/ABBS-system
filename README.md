@@ -35,7 +35,7 @@ To **reduce bus foot boarding incidents** by introducing a smart mechanical and 
   - Specially designed for **elderly and children**
 
 # Flow chart
-![prototype](PROTOTYPE/ABBS20%flow20%chart.jpg)
+![prototype](PROTOTYPE/ABBS%20flow%20chart.jpg)
 
 ---
 
@@ -76,7 +76,8 @@ To **reduce bus foot boarding incidents** by introducing a smart mechanical and 
 - Possible integration with **smart bus systems** and **IoT monitoring**
 
 ---
-
+# Prototype
+![]()
 ## 📽️ Demo Video
 
 🔗 [Watch the prototype in action](#) *(Insert YouTube/Drive/Unlisted video link here)*
