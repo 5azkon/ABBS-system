@@ -84,8 +84,7 @@ To **reduce bus foot boarding incidents** by introducing a smart mechanical and 
 ### 📽️ Project Demo
 Full video here 👇
 
-[![Watch on YouTube](https://img.youtube.com/vi/kNvuSpVP_5s/hqdefault.jpg)](https://www.youtube.com/watch?v=kNvuSpVP_5s)
-
+[![Watch on YouTube](https://img.youtube.com/vi/kNvuSpVP_5s/hqdefault.jpg)](https://www.youtube.com/watch?v=kNvuSpVP_5s) 
 ---
 
 ## 📬 Contact
